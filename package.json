@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/love-k-vaishnav.lwc-l8vb0lls",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 4Aill6cMyMobJ5B5Dr9b --open"
+  }
+}
